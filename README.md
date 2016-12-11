@@ -1,7 +1,7 @@
 # svv
 Search engine vector voting
 
-SVV is a meta search engine[1] which collects results from 4 search engines- AOL, Ask, Bing, Yahoo for a given query and displays to user. It also uses the concept of On the fly document clustering (OTFDC)[2]
+SVV is a meta search engine[1] which collects results from 4 search engines- AOL, Ask, Bing, Yahoo for a given query and displays to user. It uses the concept of On the fly document clustering (OTFDC)[2] to give more relevant search results.
 It also displays the vote distribution of a particular search result among the search engines and relevance for each result and the rank of the particular web document in each of the search engines. 
 
 To run the search engine on localhost, the following need to be installed-
