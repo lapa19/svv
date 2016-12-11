@@ -13,7 +13,9 @@ To run the search engine on localhost, the following need to be installed-
 
 3. Multiprocessing (Python Library)
 
-4. MySQL, Apache server (Xampp most convenient)
+4. Urllib (Python Library)
+
+5. MySQL, Apache server (Xampp most convenient)
 
 To run the search engine, paste the files in the appropriate location on your system and run it like any normal php file on browser. Enter query in the search bar. The results will be displayed in approximately 10s.
 
