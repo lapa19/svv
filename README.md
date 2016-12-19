@@ -24,3 +24,8 @@ The referred research papers for the implementation were:
 [1] http://www.emeraldinsight.com/doi/abs/10.1108/10662240510615182 (SVV)
 
 [2] http://www.sciencedirect.com/science/article/pii/S0306457310000373 (OTFDC)
+
+Screenshots of Output:
+![Alt text](/Screenshot from 2016-11-06 18_02_08.png?raw=true "screenshot1")
+![Alt text](/Screenshot from 2016-11-06 18_02_13.png?raw=true "screenshot2")
+![Alt text](/Screenshot from 2016-11-06 18_02_57.png?raw=true "screenshot3")
