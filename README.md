@@ -18,8 +18,8 @@ To run the search engine on localhost, the following need to be installed-
 
 To run the search engine, paste the files in the appropriate location on your system and run it like any normal php file on browser. Enter query in the search bar. The results will be displayed in approximately 10s.
 
-This was done as part of an academic project for the course Web Technology and Applications. 
-The referred research papers for the same were: 
+This was implemented as part of an academic project for the course Web Technology and Applications. 
+The referred research papers for the implementation were: 
 
 [1] http://www.emeraldinsight.com/doi/abs/10.1108/10662240510615182 (SVV)
 
