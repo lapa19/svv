@@ -27,3 +27,5 @@ The referred research papers for the implementation were:
 
 Screenshot of Output for the query "APJ Abdul Kalam":
 ![Screenshot of output](/Screenshot from 2016-11-06 18_02_08.png?raw=true "screenshot1")
+![Screenshot of output](https://raw.githubusercontent.com/lapa19/svv/master/Screenshot from 2016-11-06 18_02_08.png)
+
