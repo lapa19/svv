@@ -25,6 +25,5 @@ The referred research papers for the implementation were:
 
 [2] http://www.sciencedirect.com/science/article/pii/S0306457310000373 (OTFDC)
 
-Screenshot of Output for the query "APJ Abdul Kalam":
 ![Screenshot of output](https://raw.githubusercontent.com/lapa19/svv/master/svv_output.png)
 
